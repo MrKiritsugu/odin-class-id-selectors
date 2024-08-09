@@ -1,0 +1,19 @@
+.red {
+    background-color: rgb(255, 167, 167);
+    font-family: Verdana, "DejaVu Sans", sans-serif;
+}
+
+#box1 {
+    color: #0000ff;
+    font-size: 36px;
+}
+
+.big {
+    font-size: 24px;
+}
+
+#box2 {
+    background-color: hsl(120, 100%, 75%);
+    font-size: 24px;
+    font-weight: bold;
+}
